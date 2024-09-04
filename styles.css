@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(211, 166, 108);
+    font-size: 25px;
+    color: darkmagenta;
+    padding: 20px;
+}
+p {
+    font-size: 25px;
+    color: darkgreen;
+    padding: 20px;
+    margin-bottom: 20px; 
+}
+ol {
+    font-size: 25px;
+    color: darkgreen;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
